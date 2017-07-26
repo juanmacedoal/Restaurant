@@ -1,0 +1,26 @@
+<root>
+  <Empleado>
+    <dia>12</dia>
+    <mes>6</mes>
+    <ano>1960</ano>
+    <cedula>19453738</cedula>
+    <telfcasa>416013201</telfcasa>
+    <telfcel>212443395</telfcel>
+    <nombre>Carlos</nombre>
+    <direccion>segunda av montalba II</direccion>
+    <apellido>Lopez</apellido>
+    <cargo>Cajero</cargo>
+  </Empleado>
+  <Empleado>
+    <dia>06</dia>
+    <mes>01</mes>
+    <ano>1960</ano>
+    <cedula>3499203</cedula>
+    <telfcasa>23455555555</telfcasa>
+    <telfcel>2323</telfcel>
+    <nombre>Gilberto</nombre>
+    <direccion>Miami</direccion>
+    <apellido>Santa Rosa</apellido>
+    <cargo>Gerente</cargo>
+  </Empleado>
+</root>

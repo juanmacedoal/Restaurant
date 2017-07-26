@@ -1,0 +1,146 @@
+<root>
+  <Pedidos>
+    <producto>Tres L</producto>
+    <importe>1</importe>
+    <precio>8</precio>
+    <nmesa>21</nmesa>
+    <Sub_total />
+    <productoE />
+  </Pedidos>
+  <Pedidos>
+    <producto>Cerveza Polar Tercio</producto>
+    <importe>1</importe>
+    <precio>35</precio>
+    <nmesa>22</nmesa>
+    <Sub_total />
+    <productoE />
+  </Pedidos>
+  <Pedidos>
+    <producto>Cerveza Polar Tercio</producto>
+    <importe>1</importe>
+    <precio>35</precio>
+    <nmesa>22</nmesa>
+    <Sub_total />
+    <productoE />
+  </Pedidos>
+  <Pedidos>
+    <producto>Cerveza Polar Tercio</producto>
+    <importe>1</importe>
+    <precio>35</precio>
+    <nmesa>22</nmesa>
+    <Sub_total />
+    <productoE />
+  </Pedidos>
+  <Pedidos>
+    <producto>Cerveza Polar Tercio</producto>
+    <importe>1</importe>
+    <precio>35</precio>
+    <nmesa>22</nmesa>
+    <Sub_total />
+    <productoE />
+  </Pedidos>
+  <Pedidos>
+    <producto>Rissoto con Camarones</producto>
+    <importe>1</importe>
+    <precio>300</precio>
+    <nmesa>22</nmesa>
+    <Sub_total />
+    <productoE />
+  </Pedidos>
+  <Pedidos>
+    <producto>Rissoto con Camarones</producto>
+    <importe>1</importe>
+    <precio>300</precio>
+    <nmesa>22</nmesa>
+    <Sub_total />
+    <productoE />
+  </Pedidos>
+  <Pedidos>
+    <producto>Papas fritas</producto>
+    <importe>1</importe>
+    <precio>40</precio>
+    <nmesa>22</nmesa>
+    <Sub_total />
+    <productoE />
+  </Pedidos>
+  <Pedidos>
+    <producto>Papas fritas</producto>
+    <importe>1</importe>
+    <precio>40</precio>
+    <nmesa>22</nmesa>
+    <Sub_total />
+    <productoE />
+  </Pedidos>
+  <Pedidos>
+    <producto>Papas fritas</producto>
+    <importe>1</importe>
+    <precio>40</precio>
+    <nmesa>16</nmesa>
+    <Sub_total />
+    <productoE />
+  </Pedidos>
+  <Pedidos>
+    <producto>Rissoto</producto>
+    <importe>1</importe>
+    <precio>300</precio>
+    <nmesa>15</nmesa>
+    <Sub_total />
+    <productoE />
+  </Pedidos>
+  <Pedidos>
+    <producto>Tres Leches</producto>
+    <importe>1</importe>
+    <precio>100</precio>
+    <nmesa>15</nmesa>
+    <Sub_total />
+    <productoE />
+  </Pedidos>
+  <Pedidos>
+    <producto>Tres Leches</producto>
+    <importe>1</importe>
+    <precio>80</precio>
+    <nmesa>Barra.5</nmesa>
+    <Sub_total />
+    <productoE />
+  </Pedidos>
+  <Pedidos>
+    <producto>Tres Leches</producto>
+    <importe>1</importe>
+    <precio>80</precio>
+    <nmesa>Barra.5</nmesa>
+    <Sub_total />
+    <productoE />
+  </Pedidos>
+  <Pedidos>
+    <producto>Tres Leches</producto>
+    <importe>1</importe>
+    <precio>80</precio>
+    <nmesa>Barra.5</nmesa>
+    <Sub_total />
+    <productoE />
+  </Pedidos>
+  <Pedidos>
+    <producto>Tres Leches</producto>
+    <importe>1</importe>
+    <precio>80</precio>
+    <nmesa>Barra.5</nmesa>
+    <Sub_total />
+    <productoE />
+  </Pedidos>
+  <Pedidos>
+    <producto>Tres Leches</producto>
+    <importe>1</importe>
+    <precio>80</precio>
+    <nmesa>Barra.5</nmesa>
+    <Sub_total />
+    <productoE />
+  </Pedidos>
+  <Pedidos>
+    <producto>Tres Leches</producto>
+    <importe>1</importe>
+    <precio>80</precio>
+    <nmesa>Barra.5</nmesa>
+    <Sub_total />
+    <productoE />
+  </Pedidos>
+</root>

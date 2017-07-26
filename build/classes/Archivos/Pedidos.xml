@@ -1,0 +1,44 @@
+<root>
+  <Pedidos>
+    <precio>40</precio>
+    <iva>12.0</iva>
+    <servicio>10.0</servicio>
+    <producto>Papas fritas</producto>
+    <lista>Raciones</lista>
+  </Pedidos>
+  <Pedidos>
+    <precio>200</precio>
+    <iva>12.0</iva>
+    <servicio>10.0</servicio>
+    <producto>Rissoto</producto>
+    <lista>Raciones</lista>
+  </Pedidos>
+  <Pedidos>
+    <precio>300</precio>
+    <iva>12.0</iva>
+    <servicio>20.0</servicio>
+    <producto>Rissoto con Camarones</producto>
+    <lista>Risottos</lista>
+  </Pedidos>
+  <Pedidos>
+    <precio>80</precio>
+    <iva>12.0</iva>
+    <servicio>10.0</servicio>
+    <producto>Tres Leches</producto>
+    <lista>Postres</lista>
+  </Pedidos>
+  <Pedidos>
+    <precio>35</precio>
+    <iva>12.0</iva>
+    <servicio>10.0</servicio>
+    <producto>Cerveza Polar Tercio</producto>
+    <lista>Bebidas</lista>
+  </Pedidos>
+  <Pedidos>
+    <precio>80</precio>
+    <iva>10.0</iva>
+    <servicio>20.0</servicio>
+    <producto>Pure de Papa</producto>
+    <lista>Raciones</lista>
+  </Pedidos>
+</root>

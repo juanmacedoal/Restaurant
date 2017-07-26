@@ -1,0 +1,14 @@
+<root>
+  <Inventario>
+    <producto>Refresco Coca Cola Botella</producto>
+    <cantidad>15</cantidad>
+  </Inventario>
+  <Inventario>
+    <producto>Botella de Ron Santa Teresa</producto>
+    <cantidad>6</cantidad>
+  </Inventario>
+  <Inventario>
+    <producto>Ron Santa Teresa litro</producto>
+    <cantidad>9</cantidad>
+  </Inventario>
+</root>

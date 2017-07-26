@@ -1,0 +1,29 @@
+<root>
+  <Clientes>
+    <rif>23412</rif>
+    <tlf>4241134417</tlf>
+    <cedula>18443390</cedula>
+    <tipoV>v</tipoV>
+    <nombre>Virgilio</nombre>
+    <apellido>Macedo</apellido>
+    <direccion>montalban</direccion>
+  </Clientes>
+  <Clientes>
+    <rif>18753798</rif>
+    <tlf>2324537856</tlf>
+    <cedula>41265497</cedula>
+    <tipoV>V</tipoV>
+    <nombre>David</nombre>
+    <apellido>Villa</apellido>
+    <direccion>Valencia</direccion>
+  </Clientes>
+  <Clientes>
+    <rif>12345678</rif>
+    <tlf>08221545544</tlf>
+    <cedula>12456785</cedula>
+    <tipoV>J</tipoV>
+    <nombre>Angel</nombre>
+    <apellido>Di Maria</apellido>
+    <direccion>Manchester</direccion>
+  </Clientes>
+</root>
